@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">🔷🔵 Efe Karakaya / Founder for BYTR Digital 🔵🔷</div>  
+### <div align="center">🔷🔵 Efe Karakaya / Founder of the BYTR Digital 🔵🔷</div>  
   
 
 - 🔭 I’m currently working on [BYTR Digital](https://bytrdigital.com)  
