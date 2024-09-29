@@ -1,8 +1,8 @@
 <div align="center">
 <img src="https://s11.gifyu.com/images/SAr2p.gif" align="center" style="width: 100%" />
-
 </div>  
 
+### 
 <div align="center">
 <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge"/>
 <!-- <img src="http://hits.dwyl.com/abhisheknaiidu/awesome-github-profile-readme.svg" alt="Hits Badge"/> -->
