@@ -20,7 +20,7 @@
 - 🌱 I’m currently learning Next.JS , NGINX & React  
   
 
-- ❓ Ask me about anything related to After Effects/Photoshop and Python stack and related technologies. [My Bio.](https://bytr.net)    
+- ❓ Ask me about anything related to After Effects/Photoshop and Python stack and related technologies. [My Bio.](https://efekarakaya.net)    
   
 
 <br/>  
