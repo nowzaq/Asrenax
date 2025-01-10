@@ -11,16 +11,16 @@
 <br>
 
 
-### <div align="center">🔷🔵 Efe Karakaya / Founder of the BYTR Digital 🔵🔷</div>  
+### <div align="center">🔷🔵 Efe Karakaya / Founder of the BYTR 🔵🔷</div>  
   
 
-- 🔭 I’m currently working on [BYTR Digital](https://bytrdigital.com)  
+- 🔭 I’m currently working on [BYTR](https://bytr.net)  
   
 
 - 🌱 I’m currently learning Next.JS , NGINX & React  
   
 
-- ❓ Ask me about anything related to After Effects/Photoshop and Python stack and related technologies.  
+- ❓ Ask me about anything related to After Effects/Photoshop and Python stack and related technologies. [My Bio].(https://bytr.net)    
   
 
 <br/>  
